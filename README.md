@@ -14,8 +14,9 @@ The problem statement focused on creating a comprehensive business performance d
 
 1. ) Company revenue analysis
 2. ) Transaction analysis per province
-3. ) Branch performance 
-4. ) Profitability analysis
+3. ) Branch performance
+4. ) Product performance
+5. ) Profitability analysis
 
    
 The final output was a dashboard in Google Looker Studio that would help stakeholders monitor and analyze the business performance of Kimia Farma comprehensively.
