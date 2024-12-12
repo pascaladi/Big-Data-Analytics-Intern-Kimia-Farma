@@ -59,7 +59,11 @@ Dashboard Preview
 
 ## Contact
 For any questions or feedback about this project, please feel free to reach out to me :
+
+
 LinkedIn : Pascal Adi Chandraya Purba
+
+
 Email : adichandrayapascal@yahoo.com
 
 
