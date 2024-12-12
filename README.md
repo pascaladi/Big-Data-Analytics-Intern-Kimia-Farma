@@ -42,8 +42,10 @@ I developed a dashboard to visualize and present data related to :
 - Transaction Analysis on Customer Sentiment
 For deeper analysis, I included data controls for Province and Product, enabling stakeholders to focus on specific product or provincial performance.
 ## Result
-Dashboard link : https://lookerstudio.google.com/reporting/73a326ef-4c82-447f-a96f-52c9d4f01a95
+Dashboard link : https://lookerstudio.google.com/reporting/73a326ef-4c82-447f-a96f-52c9d4f01a95.
+
 Dashboard Preview
+
 ![image](https://github.com/user-attachments/assets/b5728ffe-0a9d-42cf-be09-e5bec8ac6d8e)
 ![image](https://github.com/user-attachments/assets/4235517d-2e83-44cf-abde-68e2daa0c5cc)
 
